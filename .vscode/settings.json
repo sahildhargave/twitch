@@ -1,0 +1,11 @@
+{
+	"workbench.colorCustomizations": {
+		"activityBar.background": "#2C2F24",
+		"titleBar.activeBackground": "#3D4232",
+		"titleBar.activeForeground": "#F9FAF8"
+	},
+	"cSpell.words": [
+		"rtctokenbuilder",
+		"rtmtokenbuilder"
+	]
+}
